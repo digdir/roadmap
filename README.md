@@ -4,7 +4,7 @@ Veikart for alle produktene til Digdir samlet på ett sted:
 
 **https://github.com/orgs/digdir/projects/8/**
 
-Det er [produkteier](https://github.com/orgs/digdir/teams/team-product-owners) sitt ansvar at roadmap til envher tid er oppdatert for sine produkter.
+Det er [produkteier](https://github.com/orgs/digdir/teams/team-product-owners) sitt ansvar at roadmap til envher tid er oppdatert for sine produkter. Feltet `Progresjon (prosent)` skal vurderes ukentlig, mens gjennomførte oppgaver skal oppdateres fortløpende.
 
 ## Effekter
 
@@ -45,7 +45,7 @@ Hver fane filtreres på [label for produkt](https://github.com/digdir/roadmap#la
 Hver produkt har tre ulike layouts for visning av leveransene. Du kan [selv velge](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#changing-the-project-layout) hvilken du ønsker å se.
 
 - [Roadmap](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#about-the-roadmap-layout) - leveransene lagt ut i tid. Dette betyr at hver leveranse **skal** ha satt dato i felter for `Start` og `End`.
-- [Tabell](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#about-the-table-layout) - leveransene vist som et regneark.
+- [Tabell](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#about-the-table-layout) - leveransene vist som et regneark. Feltene `Estimert ukesverk` og `Progresjon (prosent)` skal være satt.
 - [Board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#about-the-board-layout) - leveransene vist i tavle (Kanban) basert på overordnet status `Til vurdering`, `Backlog`, `Under arbeid`eller `Levert`.
 
 Uavhengig av hvilken layout som benyttes, så kan du alltid se på den enkelte leveranse ved å trykke på den.
