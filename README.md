@@ -4,7 +4,16 @@ Veikart for alle produktene til Digdir samlet på ett sted:
 
 **https://github.com/orgs/digdir/projects/8/**
 
-Det er [produkteier](https://github.com/orgs/digdir/teams/team-product-owners) sitt ansvar at roadmap til envher tid er oppdatert for sine produkter. Feltet `Progresjon (prosent)` skal vurderes ukentlig, mens gjennomførte oppgaver skal oppdateres fortløpende.
+Det er [produkteier](https://github.com/orgs/digdir/teams/team-product-owners) sitt ansvar at [alle visninger](https://github.com/digdir/roadmap#layouts) til envher tid er oppdatert for sine produkter. Feltet `Progresjon (prosent)` skal vurderes ukentlig, mens gjennomførte oppgaver skal oppdateres fortløpende.
+
+| Produkt            | Visning            |
+| :----------------- | :----------------- |
+| Altinn Formidling  | [Roadmap](https://github.com/orgs/digdir/projects/8/views/20?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/20?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/20?layout=board)
+| Altinn Melding     | [Roadmap](https://github.com/orgs/digdir/projects/8/views/21?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/21?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/21?layout=board)
+| Altinn Studio      | [Roadmap](https://github.com/orgs/digdir/projects/8/views/2?layout=roadmap)  • [Table](https://github.com/orgs/digdir/projects/8/views/2?layout=table)  • [Board](https://github.com/orgs/digdir/projects/8/views/2?layout=board)
+| Autorisasjon       | [Roadmap](https://github.com/orgs/digdir/projects/8/views/5?layout=roadmap)  • [Table](https://github.com/orgs/digdir/projects/8/views/5?layout=table)  • [Board](https://github.com/orgs/digdir/projects/8/views/5?layout=board)
+| Dialogporten       | [Roadmap](https://github.com/orgs/digdir/projects/8/views/25?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/25?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/25?layout=board)
+| Dialogporten.js    | [Roadmap](https://github.com/orgs/digdir/projects/8/views/28?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/28?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/28?layout=board)
 
 ## Effekter
 
