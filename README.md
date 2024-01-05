@@ -6,14 +6,25 @@ Veikart for alle produktene til Digdir samlet på ett sted:
 
 Det er [produkteier](https://github.com/orgs/digdir/teams/team-product-owners) sitt ansvar at [alle visninger](https://github.com/digdir/roadmap#layouts) til envher tid er oppdatert for sine produkter. Feltet `Progresjon (prosent)` skal vurderes ukentlig, mens gjennomførte oppgaver skal oppdateres fortløpende.
 
-| Produkt            | Visning            |
-| :----------------- | :----------------- |
-| Altinn Formidling  | [Roadmap](https://github.com/orgs/digdir/projects/8/views/20?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/20?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/20?layout=board)
-| Altinn Melding     | [Roadmap](https://github.com/orgs/digdir/projects/8/views/21?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/21?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/21?layout=board)
-| Altinn Studio      | [Roadmap](https://github.com/orgs/digdir/projects/8/views/2?layout=roadmap)  • [Table](https://github.com/orgs/digdir/projects/8/views/2?layout=table)  • [Board](https://github.com/orgs/digdir/projects/8/views/2?layout=board)
-| Autorisasjon       | [Roadmap](https://github.com/orgs/digdir/projects/8/views/5?layout=roadmap)  • [Table](https://github.com/orgs/digdir/projects/8/views/5?layout=table)  • [Board](https://github.com/orgs/digdir/projects/8/views/5?layout=board)
-| Dialogporten       | [Roadmap](https://github.com/orgs/digdir/projects/8/views/25?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/25?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/25?layout=board)
-| Dialogporten.js    | [Roadmap](https://github.com/orgs/digdir/projects/8/views/28?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/28?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/28?layout=board)
+| Produkt / Fellesløsning  | Visning            |
+| :----------------------- | :----------------- |
+| Altinn Studio            | [Roadmap](https://github.com/orgs/digdir/projects/8/views/2?layout=roadmap)  • [Table](https://github.com/orgs/digdir/projects/8/views/2?layout=table)  • [Board](https://github.com/orgs/digdir/projects/8/views/2?layout=board)
+| Arbeidsflate             | [Roadmap](https://github.com/orgs/digdir/projects/8/views/28?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/28?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/28?layout=board)
+| Autorisasjon             | [Roadmap](https://github.com/orgs/digdir/projects/8/views/5?layout=roadmap)  • [Table](https://github.com/orgs/digdir/projects/8/views/5?layout=table)  • [Board](https://github.com/orgs/digdir/projects/8/views/5?layout=board)
+| data.altinn.no           | [Roadmap](https://github.com/orgs/digdir/projects/8/views/18?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/18?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/18?layout=board)
+| Dialogporten             | [Roadmap](https://github.com/orgs/digdir/projects/8/views/25?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/25?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/25?layout=board)
+| eFormidling              | [Roadmap](https://github.com/orgs/digdir/projects/8/views/14?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/14?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/14?layout=board)
+| eInnsyn                  | [Roadmap](https://github.com/orgs/digdir/projects/8/views/12?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/12?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/12?layout=board)
+| Elma                     | [Roadmap](https://github.com/orgs/digdir/projects/8/views/15?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/15?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/15?layout=board)
+| eSignering               | [Roadmap](https://github.com/orgs/digdir/projects/8/views/17?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/17?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/17?layout=board)
+| Felles datakatalog       | [Roadmap](https://github.com/orgs/digdir/projects/8/views/11?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/11?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/11?layout=board)
+| Formidling               | [Roadmap](https://github.com/orgs/digdir/projects/8/views/20?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/20?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/20?layout=board)
+| ID-porten                | [Roadmap](https://github.com/orgs/digdir/projects/8/views/3?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/3?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/3?layout=board)
+| KRR                      | [Roadmap](https://github.com/orgs/digdir/projects/8/views/8?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/8?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/8?layout=board)
+| Maskinporten             | [Roadmap](https://github.com/orgs/digdir/projects/8/views/6?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/6?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/6?layout=board)
+| Melding                  | [Roadmap](https://github.com/orgs/digdir/projects/8/views/21?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/21?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/21?layout=board)
+| MinID                    | [Roadmap](https://github.com/orgs/digdir/projects/8/views/31?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/31?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/31?layout=board)
+| Varsling                 | [Roadmap](https://github.com/orgs/digdir/projects/8/views/30?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/30?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/30?layout=board)
 
 ## Effekter
 
