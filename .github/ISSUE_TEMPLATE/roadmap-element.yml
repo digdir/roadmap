@@ -5,8 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        * Les dokumentasjon for hvordan skrive gode roadmap-elementer [her](https://github.com/digdir/roadmap?tab=readme-ov-file#niv%C3%A5).
-        * Husk å legge på [label for produkt](https://github.com/digdir/roadmap?tab=readme-ov-file#labels).
+        * Les [dokumentasjon for hvordan skrive gode roadmap-elementer](https://github.com/digdir/roadmap?tab=readme-ov-file#niv%C3%A5)
+        * Husk å legge på [label for produkt](https://github.com/digdir/roadmap?tab=readme-ov-file#labels)
   - type: textarea
     id: description
     attributes:
@@ -28,10 +28,6 @@ body:
       description: Overordnet funksjonell beskrivelse av hvordan det skal fungere
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        * Se [dokumentasjon for task lists](https://github.com/digdir/roadmap?tab=readme-ov-file#tasklists).
   - type: textarea
     id: epics
     attributes:
@@ -48,3 +44,7 @@ body:
         ```
     validations:
       required: false
+  - type: markdown
+    attributes:
+      value: |
+        * Se [dokumentasjon for task lists](https://github.com/digdir/roadmap?tab=readme-ov-file#tasklists)
