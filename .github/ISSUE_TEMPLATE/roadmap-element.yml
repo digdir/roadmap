@@ -1,0 +1,50 @@
+name: Roadmap 🛣️
+description: Opprett et nytt roadmap element
+projects: digdir/8
+body:
+  - type: markdown
+    attributes:
+      value: |
+        * Les dokumentasjon for hvordan skrive gode roadmap-elementer [her](https://github.com/digdir/roadmap?tab=readme-ov-file#niv%C3%A5).
+        * Husk å legge på [label for produkt](https://github.com/digdir/roadmap?tab=readme-ov-file#labels).
+  - type: textarea
+    id: description
+    attributes:
+      label: Overordnet beskrivelse
+      description: En *veldig* overordnet beskrivelse
+    validations:
+      required: true
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Forventet resultat
+      description: Overordnede resultater eller effekter
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: Hvordan skal det fungere?
+      description: Overordnet funksjonell beskrivelse av hvordan det skal fungere
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        * Se [dokumentasjon for task lists](https://github.com/digdir/roadmap?tab=readme-ov-file#tasklists).
+  - type: textarea
+    id: epics
+    attributes:
+      label: Gjennomføring
+      description: Task lists for Avhengigheter og Oppgaver. Disse kan slettes og legges til på et senere tidspunkt.
+      value: |
+        ```[tasklist]
+        ### Avhengigheter
+        - [ ] Draft avhengighet
+        ```
+        ```[tasklist]
+        ### Oppgaver
+        - [ ] Draft epos
+        ```
+    validations:
+      required: false
