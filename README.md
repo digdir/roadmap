@@ -25,7 +25,8 @@ Det er [produkteier](https://github.com/orgs/digdir/teams/team-product-owners) s
 | Melding                  | [Roadmap](https://github.com/orgs/digdir/projects/8/views/21?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/21?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/21?layout=board)
 | MinID                    | [Roadmap](https://github.com/orgs/digdir/projects/8/views/31?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/31?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/31?layout=board)
 | Varsling                 | [Roadmap](https://github.com/orgs/digdir/projects/8/views/30?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/30?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/30?layout=board)
-
+| Infoportal               | [Roadmap](https://github.com/orgs/digdir/projects/8/views/34?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/34?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/34?layout=board)
+| Designsystem             | [Roadmap](https://github.com/orgs/digdir/projects/8/views/33?layout=roadmap) • [Table](https://github.com/orgs/digdir/projects/8/views/33?layout=table) • [Board](https://github.com/orgs/digdir/projects/8/views/33?layout=board)
 ## Effekter
 
 - [Ett sted](https://github.com/orgs/digdir/projects/8/) for å få overordnet oversikt over hva som planlegges for Digdir sine produkter
