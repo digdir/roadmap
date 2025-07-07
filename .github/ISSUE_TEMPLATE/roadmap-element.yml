@@ -12,6 +12,8 @@ body:
     attributes:
       label: Overordnet beskrivelse
       description: En *veldig* overordnet beskrivelse
+      value: |
+        ## Overordnet beskrivelse        
     validations:
       required: true
   - type: textarea
@@ -19,6 +21,8 @@ body:
     attributes:
       label: Forventet resultat
       description: Overordnede resultater eller effekter
+      value: |
+        ## Forventet resultat
     validations:
       required: true
   - type: textarea
@@ -26,6 +30,8 @@ body:
     attributes:
       label: Hvordan skal det fungere?
       description: Overordnet funksjonell beskrivelse av hvordan det skal fungere
+      value: |
+        ## Hvordan skal det fungere?        
     validations:
       required: true
   - type: textarea
@@ -34,6 +40,7 @@ body:
       label: Gjennomføring
       description: Task lists for Avhengigheter og Oppgaver. Disse kan slettes og legges til på et senere tidspunkt.
       value: |
+        ## Gjennomføring
         ### Avhengigheter
         - [ ] Draft avhengighet
         
