@@ -1,6 +1,6 @@
 name: Roadmap 🛣️
 description: Opprett et nytt roadmap element
-projects: digdir/8
+projects: [digdir/8]
 body:
   - type: markdown
     attributes:
@@ -34,14 +34,11 @@ body:
       label: Gjennomføring
       description: Task lists for Avhengigheter og Oppgaver. Disse kan slettes og legges til på et senere tidspunkt.
       value: |
-        ```[tasklist]
         ### Avhengigheter
         - [ ] Draft avhengighet
-        ```
-        ```[tasklist]
+        
         ### Oppgaver
         - [ ] Draft epos
-        ```
     validations:
       required: false
   - type: markdown
