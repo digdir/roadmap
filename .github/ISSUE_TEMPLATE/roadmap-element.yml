@@ -1,6 +1,6 @@
 name: Roadmap 🛣️
 description: Opprett et nytt roadmap element
-projects: digdir/8
+projects: [digdir/8]
 body:
   - type: markdown
     attributes:
@@ -11,7 +11,7 @@ body:
     id: description
     attributes:
       label: Overordnet beskrivelse
-      description: En *veldig* overordnet beskrivelse
+      description: En *veldig* overordnet beskrivelse       
     validations:
       required: true
   - type: textarea
@@ -25,7 +25,7 @@ body:
     id: how
     attributes:
       label: Hvordan skal det fungere?
-      description: Overordnet funksjonell beskrivelse av hvordan det skal fungere
+      description: Overordnet funksjonell beskrivelse av hvordan det skal fungere   
     validations:
       required: true
   - type: textarea
@@ -34,14 +34,11 @@ body:
       label: Gjennomføring
       description: Task lists for Avhengigheter og Oppgaver. Disse kan slettes og legges til på et senere tidspunkt.
       value: |
-        ```[tasklist]
         ### Avhengigheter
         - [ ] Draft avhengighet
-        ```
-        ```[tasklist]
+        
         ### Oppgaver
         - [ ] Draft epos
-        ```
     validations:
       required: false
   - type: markdown
